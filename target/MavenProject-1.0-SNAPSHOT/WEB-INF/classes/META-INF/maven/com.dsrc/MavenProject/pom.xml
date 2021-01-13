@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.dsrc</groupId>
   <artifactId>MavenProject</artifactId>
-  <packaging>war</packaging>
+  <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
   <name>MavenProject</name>
   <url>http://maven.apache.org</url>
